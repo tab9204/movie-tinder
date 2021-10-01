@@ -1,0 +1,9 @@
+{
+  "short_name": "Minder",
+  "name": "Minder (Movie Tinder duh)",
+  "icons": [],
+  "background_color": "#4D77BE",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
