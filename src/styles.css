@@ -18,9 +18,9 @@ body{margin: 0px; font-family: 'Work Sans', sans-serif; overscroll-behavior-y: c
         .sectionHeader{font-size: 1.5em; margin-bottom: 10px;}
 
 
-.card{position: relative; width: 50vw; height: 50vw; border: 1px solid; transition: transform 1s; transform-style: preserve-3d; margin: 0px auto;}
+.card{position: relative; width: 60vw; height: 85vw; max-width: 200px; max-height: 300px; border: 1px solid; transition: transform 1s; transform-style: preserve-3d; margin: 0px auto;}
   .face{ height: 100%; width: 100%; position: absolute; backface-visibility: hidden;}
-  .front{background: blue;}
+  .front{}
   .back{background: red; transform: rotateY(180deg );}
   .flip{transform: rotateY(180deg);}
 
